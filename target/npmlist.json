@@ -1,0 +1,87 @@
+{
+  "version": "0.1.0",
+  "name": "clon",
+  "problems": [
+    "extraneous: bindings@1.5.0 c:\\Users\\Rafet\\Desktop\\clon\\node_modules\\bindings",
+    "extraneous: file-uri-to-path@1.0.0 c:\\Users\\Rafet\\Desktop\\clon\\node_modules\\file-uri-to-path",
+    "extraneous: nan@2.15.0 c:\\Users\\Rafet\\Desktop\\clon\\node_modules\\nan"
+  ],
+  "dependencies": {
+    "@material-ui/core": {
+      "version": "4.12.3",
+      "resolved": "https://registry.npmjs.org/@material-ui/core/-/core-4.12.3.tgz"
+    },
+    "@material-ui/icons": {
+      "version": "4.11.2",
+      "resolved": "https://registry.npmjs.org/@material-ui/icons/-/icons-4.11.2.tgz"
+    },
+    "@mui/icons-material": {
+      "version": "5.0.3",
+      "resolved": "https://registry.npmjs.org/@mui/icons-material/-/icons-material-5.0.3.tgz"
+    },
+    "@testing-library/jest-dom": {
+      "version": "5.14.1",
+      "resolved": "https://registry.npmjs.org/@testing-library/jest-dom/-/jest-dom-5.14.1.tgz"
+    },
+    "@testing-library/react": {
+      "version": "11.2.7",
+      "resolved": "https://registry.npmjs.org/@testing-library/react/-/react-11.2.7.tgz"
+    },
+    "@testing-library/user-event": {
+      "version": "12.8.3",
+      "resolved": "https://registry.npmjs.org/@testing-library/user-event/-/user-event-12.8.3.tgz"
+    },
+    "bindings": {
+      "version": "1.5.0",
+      "resolved": "https://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz",
+      "extraneous": true,
+      "problems": [
+        "extraneous: bindings@1.5.0 c:\\Users\\Rafet\\Desktop\\clon\\node_modules\\bindings"
+      ]
+    },
+    "file-uri-to-path": {
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz",
+      "extraneous": true,
+      "problems": [
+        "extraneous: file-uri-to-path@1.0.0 c:\\Users\\Rafet\\Desktop\\clon\\node_modules\\file-uri-to-path"
+      ]
+    },
+    "firebase": {
+      "version": "8.10.0",
+      "resolved": "https://registry.npmjs.org/firebase/-/firebase-8.10.0.tgz"
+    },
+    "nan": {
+      "version": "2.15.0",
+      "resolved": "https://registry.npmjs.org/nan/-/nan-2.15.0.tgz",
+      "extraneous": true,
+      "problems": [
+        "extraneous: nan@2.15.0 c:\\Users\\Rafet\\Desktop\\clon\\node_modules\\nan"
+      ]
+    },
+    "react-currency-format": {
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/react-currency-format/-/react-currency-format-1.0.0.tgz"
+    },
+    "react-dom": {
+      "version": "17.0.2",
+      "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-17.0.2.tgz"
+    },
+    "react-router-dom": {
+      "version": "5.3.0",
+      "resolved": "https://registry.npmjs.org/react-router-dom/-/react-router-dom-5.3.0.tgz"
+    },
+    "react-scripts": {
+      "version": "4.0.3",
+      "resolved": "https://registry.npmjs.org/react-scripts/-/react-scripts-4.0.3.tgz"
+    },
+    "react": {
+      "version": "17.0.2",
+      "resolved": "https://registry.npmjs.org/react/-/react-17.0.2.tgz"
+    },
+    "web-vitals": {
+      "version": "1.1.2",
+      "resolved": "https://registry.npmjs.org/web-vitals/-/web-vitals-1.1.2.tgz"
+    }
+  }
+}
