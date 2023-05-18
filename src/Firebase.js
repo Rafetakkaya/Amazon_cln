@@ -3,13 +3,14 @@ import firebase from "firebase";
 
 
 // const firebaseConfig = {
-//     apiKey: "AIzaSyDjvMObRqhiCMHkOUgA4CyjSiU5I8K076k",
-//     authDomain: "challenge-2cb75.firebaseapp.com",
-//     projectId: "challenge-2cb75",
-//     storageBucket: "challenge-2cb75.appspot.com",
-//     messagingSenderId: "1084733502310",
-//     appId: "1:1084733502310:web:7689568c0c1a3cf482cea7",
-//     measurementId: "G-G0PZN47FCZ"
+ //   apiKey: "",
+ //   authDomain: "",
+//    projectId: "",
+ //   storageBucket: "",
+//    messagingSenderId: "",
+//    appId: "",
+ //   measurementId: ""
+//   
 // };
 // const firebaseApp = firebase.initializeApp(firebaseConfig);
 // const db = firebaseApp.firestore();
